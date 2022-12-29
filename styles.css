@@ -53,7 +53,7 @@ body {
   background-color: var(--verydark-cyan);
 }
 
-.box h3 {
+.box h1 {
   font-family: "Big Shoulders Display", cursive;
   text-transform: uppercase;
   color: var(--verylight-gray);
