@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [git@github.com:batsa-er/Frntend-3column.git](https://your-solution-url.com)
+- Live Site URL: [https://batsa-er.github.io/Frntend-3column/](https://your-live-site-url.com)
 
 ## My process
 
@@ -49,5 +49,5 @@ Users should be able to:
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/batsa-er)
-- Twitter - [@yourusername](https://www.twitter.com/_batsa)
+- Frontend Mentor - [@batsa-er](https://www.frontendmentor.io/profile/batsa-er)
+- Twitter - [@\_batsa](https://www.twitter.com/_batsa)
